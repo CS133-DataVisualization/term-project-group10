@@ -160,7 +160,7 @@ This notebook builds and evaluates classification models to predict rent afforda
    
 2. **Random Forest Classifier**
    - Accuracy: 96%
-   - Strong overall performance with feature importance analysis
+   - Best precision for majority class (affordable cities)
    
 3. **K-Nearest Neighbors (KNN)**
    - Accuracy: 92%
