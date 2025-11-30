@@ -180,8 +180,8 @@ This notebook builds and evaluates classification models to predict rent afforda
 
 The project includes an interactive choropleth map showing average rent affordability by state:
 
-- **File**: `affordability_plot.html` and `outputs/average_rent_affordability_map.html`
-- **To View**: Download and open the HTML files in any web browser
+- **File**: `average_rent_affordability_map.html`
+- **To View**: Download and open the HTML file in any web browser
 - **Features**: 
   - Hover over states to see average rent burden
   - Color-coded by affordability level
